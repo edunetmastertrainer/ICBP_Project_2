@@ -1,0 +1,6 @@
+streamlit
+python-dotenv
+streamlit-option-menu
+crewai
+crewai_tools
+langchain_google_genai
